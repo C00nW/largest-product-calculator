@@ -21,19 +21,24 @@ This Python script efficiently calculates the largest product of a consecutive s
 3. Run the script:
    ```bash
    python largest_product_calculator.py
+   ```
 
 4. Follow the prompts:
-    - Enter a series of digits (e.g., 12345678)
-    - Enter the desired length (e.g., 3)
+   ```bash
+   Enter a series of digits (e.g., 12345678)
+   Enter the desired length (e.g., 3)
+   ```
 
 **Example:**
 
-1. Enter the series of digits: 1239345
-2. Enter the length of the series: 3
+ ```bash
+ 1. Enter the series of digits: 1239345
+ 2. Enter the length of the series: 3
 
-3. The largest series product is: 108
-4. Press 'y' to try again or any other key to exit the program: n
-5. Thank you for using the program!
+ 3. The largest series product is: 108
+ 4. Press 'y' to try again or any other key to exit the program: n
+ 5. Thank you for using the program!
+ ```
 
 
 **Code Structure**
@@ -52,5 +57,5 @@ This Python script efficiently calculates the largest product of a consecutive s
 
 **Contributing**
 
-Feel free to suggest improvements or report bugs. 
+Feel free to suggest improvements or report bugs!
 
